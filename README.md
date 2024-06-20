@@ -2,13 +2,15 @@
 
 ## About Me
 
-I'm a New Graduate based in Auckland New Zealand, passionate about all kind of cool stuff.
+Hello! I'm Yuzhe, a passionate tech student with a strong desire to Front-End development, As passionate tech student with a strong desire to Front-End development, I am particularly interested in web-application development, web page design, thus, I put my focus on learning web-related tech stack, JavaScript, HTML5, CSS3, React, Node.js, and popular UI library.
+In addition to the web-related tech, I also had experience work with AWS, Azure and its related function & service (VPC, EC2, Azure blob storage, S3 bucket, etc.), during my study and internship period.
+Moreover, I also understand how to work with various production and business data, familiar with multiple RDMS, MySQL, PostgreSQL, and No-relational Database, Mongodb. Meanwhile, I also able to perform certain ability in data analysis, data visualisation with R lang.
+Likewise, I have a very strong passion for new technologies and am willing to learn new technologies, and applications. I also have a very proactive working attitude, and I am well adapted to agile development and teamwork, familiar with Git frequent use command.
+If you need a responsible and creative developer, please feel free to contact me.
 
 ## 🔭 I’m currently working on
 
-- [Project 1]: Brief description of project 1
-- [Project 2]: Brief description of project 2
-- [Project 3]: Brief description of project 3
+Hostel Management platform, kind of light version of PMS application, mainly aim to help small medium size hospitality property to better management
 
 ## 🌱 I’m currently learning
 
