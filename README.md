@@ -18,25 +18,17 @@ I'm currently diving deeper into React, .Net, Node.js, aiming to improve my prof
 
 ## 👯 I’m looking to collaborate on
 
-I'm open to collaborating on projects related to [Your Area of Expertise or Interest]. If you have an exciting project idea or need assistance with something, feel free to reach out!
+I'm open to collaborating on projects related to My own working project. If you have an exciting project idea or need assistance with something, feel free to reach out!
 
 ## 🤔 I’m looking for help with
 
-I'm currently seeking guidance or resources on [Topic or Area You Need Help With]. If you have any recommendations or insights, I'd greatly appreciate it!
+I'm currently seeking guidance or resources on Entry level Tech job. If you have any recommendations or insights, I'd greatly appreciate it!
 
 ## 💬 Ask me about
 
-Feel free to ask me about anything related to [Your Area of Expertise or Interest], [Your Favorite Technology], or [Something You're Knowledgeable About]. I'm always happy to share my knowledge and help out!
+Feel free to ask me about anything related to UI/UX design, Gundam Model Assembling, or anything we can have common topic. I'm always happy to share my knowledge and help out!
 
 ## 📫 How to reach me
 
-You can reach me via email at [Your Email Address] or connect with me on [LinkedIn](Your LinkedIn Profile URL).
-
-## 😄 Pronouns
-
-[Your Pronouns]
-
-## ⚡ Fun fact
-
-[Fun Fact About Yourself]
+You can reach me via email at chenyuzhe0110@outllok.com or connect with me on https://www.linkedin.com/in/yuzhe-chen-004668232/
 
